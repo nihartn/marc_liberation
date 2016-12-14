@@ -14,8 +14,8 @@ GIT
 
 GIT
   remote: git@github.com:pulibrary/voyager_helpers.git
-  revision: 63257efa638e48db4532f8d9e1907e5fc88252c6
-  tag: v0.3.4
+  revision: 2141048b830da6e29687fb8372acca291a7dbb63
+  tag: v0.3.5
   specs:
     voyager_helpers (0.3.3)
       activesupport (~> 4.1)
